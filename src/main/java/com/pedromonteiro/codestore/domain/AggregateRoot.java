@@ -1,6 +1,4 @@
-package com.pedromonteiro.codestore.shared.domain.entity;
-
-import com.pedromonteiro.codestore.shared.domain.valueobject.Identifier;
+package com.pedromonteiro.codestore.domain;
 
 public class AggregateRoot<ID extends Identifier> extends Entity<ID>{
 

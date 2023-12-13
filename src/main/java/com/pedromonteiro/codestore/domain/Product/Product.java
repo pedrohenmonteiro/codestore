@@ -1,8 +1,8 @@
-package com.pedromonteiro.codestore.productadm.domain.entity;
+package com.pedromonteiro.codestore.domain.Product;
 
 import java.math.BigDecimal;
 
-import com.pedromonteiro.codestore.shared.domain.entity.AggregateRoot;
+import com.pedromonteiro.codestore.domain.AggregateRoot;
 
 public class Product extends AggregateRoot<ProductID>{
 

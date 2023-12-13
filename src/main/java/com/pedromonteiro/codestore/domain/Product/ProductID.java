@@ -1,9 +1,9 @@
-package com.pedromonteiro.codestore.productadm.domain.entity;
+package com.pedromonteiro.codestore.domain.Product;
 
 import java.util.Objects;
 import java.util.UUID;
 
-import com.pedromonteiro.codestore.shared.domain.valueobject.Identifier;
+import com.pedromonteiro.codestore.domain.Identifier;
 
 
 public class ProductID extends Identifier{

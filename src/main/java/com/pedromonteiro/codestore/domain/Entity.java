@@ -1,6 +1,5 @@
-package com.pedromonteiro.codestore.shared.domain.entity;
+package com.pedromonteiro.codestore.domain;
 
-import com.pedromonteiro.codestore.shared.domain.valueobject.Identifier;
 import java.util.Objects;
 import java.time.Instant;
 
